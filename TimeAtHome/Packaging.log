@@ -1,0 +1,285 @@
+2025-10-20 12:53:20 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0xa6d6e1e00; archive(resolved)="<IDEArchive: 0xa9758e530>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	Chain (16, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0xa6d6e1e00; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0xa6d6e2100; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97c16580; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97c5c000; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f57c00; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f54780; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f57700; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f56300; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f55e00; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="<IDEProvisioningDisambiguatableBasicTeam: 0xa845b8500; teamID='L4A7549EHC', teamName='Gerrit Grunwald', teamType='Individual', username='han.solo@mac.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0xa97f57200; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="(null)">
+	<IDEDistributionContext: 0xa97f56d00; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="(null)">
+	<IDEDistributionContext: 0xa97f56080; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="(null)">
+	<IDEDistributionContext: 0xa97f55400; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0xa71a41750>", team="(null)">
+	<IDEDistributionContext: 0xa97f54a00; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0xa93823700; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0xa93822a80; archive = "<IDEArchive: 0xa9758e530>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0xa6d6e1e00>
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionCreateDestRootStep
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionCopyItemStep
+2025-10-20 12:53:20 +0000  Running /usr/bin/ditto '-V' '/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app' '/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app'
+2025-10-20 12:53:20 +0000  >>> Copying /Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app 
+2025-10-20 12:53:20 +0000  copying file ./_CodeSignature/CodeResources ... 
+2025-10-20 12:53:20 +0000  5435 bytes for ./_CodeSignature/CodeResources
+2025-10-20 12:53:20 +0000  copying file ./PlugIns/TimeAtHomeWidgetExtension.appex/_CodeSignature/CodeResources ... 
+2025-10-20 12:53:20 +0000  2252 bytes for ./PlugIns/TimeAtHomeWidgetExtension.appex/_CodeSignature/CodeResources
+2025-10-20 12:53:20 +0000  copying file ./PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension ... 
+2025-10-20 12:53:20 +0000  171072 bytes for ./PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension
+2025-10-20 12:53:20 +0000  copying file ./PlugIns/TimeAtHomeWidgetExtension.appex/digital-7.ttf ... 
+2025-10-20 12:53:20 +0000  33992 bytes for ./PlugIns/TimeAtHomeWidgetExtension.appex/digital-7.ttf
+2025-10-20 12:53:20 +0000  copying file ./PlugIns/TimeAtHomeWidgetExtension.appex/embedded.mobileprovision ... 
+2025-10-20 12:53:20 +0000  15317 bytes for ./PlugIns/TimeAtHomeWidgetExtension.appex/embedded.mobileprovision
+2025-10-20 12:53:20 +0000  copying file ./PlugIns/TimeAtHomeWidgetExtension.appex/Info.plist ... 
+2025-10-20 12:53:20 +0000  948 bytes for ./PlugIns/TimeAtHomeWidgetExtension.appex/Info.plist
+2025-10-20 12:53:20 +0000  copying file ./AppIcon60x60@2x.png ... 
+2025-10-20 12:53:20 +0000  8274 bytes for ./AppIcon60x60@2x.png
+2025-10-20 12:53:20 +0000  copying file ./TimeAtHome ... 
+2025-10-20 12:53:20 +0000  201760 bytes for ./TimeAtHome
+2025-10-20 12:53:20 +0000  copying file ./Assets.car ... 
+2025-10-20 12:53:20 +0000  319176 bytes for ./Assets.car
+2025-10-20 12:53:20 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2025-10-20 12:53:20 +0000  11101 bytes for ./AppIcon76x76@2x~ipad.png
+2025-10-20 12:53:20 +0000  copying file ./digital-7.ttf ... 
+2025-10-20 12:53:20 +0000  33992 bytes for ./digital-7.ttf
+2025-10-20 12:53:20 +0000  copying file ./Frameworks/ClockRotationEffect.framework/_CodeSignature/CodeResources ... 
+2025-10-20 12:53:20 +0000  1798 bytes for ./Frameworks/ClockRotationEffect.framework/_CodeSignature/CodeResources
+2025-10-20 12:53:20 +0000  copying file ./Frameworks/ClockRotationEffect.framework/ClockRotationEffect ... 
+2025-10-20 12:53:20 +0000  91888 bytes for ./Frameworks/ClockRotationEffect.framework/ClockRotationEffect
+2025-10-20 12:53:20 +0000  copying file ./Frameworks/ClockRotationEffect.framework/Info.plist ... 
+2025-10-20 12:53:20 +0000  808 bytes for ./Frameworks/ClockRotationEffect.framework/Info.plist
+2025-10-20 12:53:20 +0000  copying file ./embedded.mobileprovision ... 
+2025-10-20 12:53:20 +0000  15170 bytes for ./embedded.mobileprovision
+2025-10-20 12:53:20 +0000  copying file ./Info.plist ... 
+2025-10-20 12:53:20 +0000  1555 bytes for ./Info.plist
+2025-10-20 12:53:20 +0000  copying file ./PkgInfo ... 
+2025-10-20 12:53:20 +0000  8 bytes for ./PkgInfo
+2025-10-20 12:53:20 +0000  /usr/bin/ditto exited with 0
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionEmbedProfileStep
+2025-10-20 12:53:20 +0000  Skipping profile for item: <IDEDistributionItem: 0xa98069500; bundleID='com.eilgnaw.ClockRotationEffect', path='<DVTFilePath:0xa9758e8b0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa9806ad00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d80c0; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='(null)', teamID='L4A7549EHC', identifier='com.eilgnaw.ClockRotationEffect', executablePath='<DVTFilePath:0xa9758eed0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect'>', hardenedRuntime='0'>'>
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionInfoPlistStep
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionSymbolsStep
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionAppThinningStep
+2025-10-20 12:53:20 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionArchThinningStep
+2025-10-20 12:53:20 +0000  Archs to thin for item /Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework are []
+2025-10-20 12:53:20 +0000  Archs to thin for item /Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex are []
+2025-10-20 12:53:20 +0000  Archs to thin for item /Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app are []
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionODRStep
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionStripXattrsStep
+2025-10-20 12:53:20 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-10-20 12:53:20 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-10-20 12:53:20 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2025-10-20 12:53:20 +0000  Processing step: IDEDistributionCodesignStep
+2025-10-20 12:53:20 +0000  Entitlements for <IDEDistributionItem: 0xa98069500; bundleID='com.eilgnaw.ClockRotationEffect', path='<DVTFilePath:0xa9758e8b0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa9806ad00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d80c0; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='(null)', teamID='L4A7549EHC', identifier='com.eilgnaw.ClockRotationEffect', executablePath='<DVTFilePath:0xa9758eed0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect'>', hardenedRuntime='0'>'>: {
+}
+2025-10-20 12:53:20 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-10-20 12:53:20 +0000  Entitlements for <IDEDistributionItem: 0xa98069500; bundleID='com.eilgnaw.ClockRotationEffect', path='<DVTFilePath:0xa9758e8b0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa9806ad00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='(null)', teamID='L4A7549EHC', identifier='com.eilgnaw.ClockRotationEffect', executablePath='<DVTFilePath:0xa9758eed0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect'>', hardenedRuntime='0'>'> are: {
+}
+2025-10-20 12:53:20 +0000  Writing entitlements for <IDEDistributionItem: 0xa98069500; bundleID='com.eilgnaw.ClockRotationEffect', path='<DVTFilePath:0xa9758e8b0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa9806ad00; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='(null)', teamID='L4A7549EHC', identifier='com.eilgnaw.ClockRotationEffect', executablePath='<DVTFilePath:0xa9758eed0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect'>', hardenedRuntime='0'>'> to: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~SESnvA
+2025-10-20 12:53:20 +0000  invoking codesign: <NSConcreteTask: 0xa6d6f1e00; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    BCFFE2CE275AFD2B29E656FCD5F2509E84A9453D,
+    "--entitlements",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~SESnvA",
+    "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework"
+)'>
+2025-10-20 12:53:21 +0000  codesign output: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework: replacing existing signature
+/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework: signed bundle with Mach-O thin (arm64) [com.eilgnaw.ClockRotationEffect]
+2025-10-20 12:53:21 +0000  Entitlements for <IDEDistributionItem: 0xa9806bc60; bundleID='eu.hansolo.TimeAtHome.TimeAtHomeWidget', path='<DVTFilePath:0xa9758c460:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa980689c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d80c0; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome.TimeAtHomeWidget";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome.TimeAtHomeWidget', executablePath='<DVTFilePath:0xa9758f560:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome.TimeAtHomeWidget";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 0;
+}
+2025-10-20 12:53:21 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-10-20 12:53:21 +0000  Entitlements for <IDEDistributionItem: 0xa9806bc60; bundleID='eu.hansolo.TimeAtHome.TimeAtHomeWidget', path='<DVTFilePath:0xa9758c460:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa980689c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome.TimeAtHomeWidget";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome.TimeAtHomeWidget', executablePath='<DVTFilePath:0xa9758f560:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome.TimeAtHomeWidget";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 0;
+}
+2025-10-20 12:53:21 +0000  Writing entitlements for <IDEDistributionItem: 0xa9806bc60; bundleID='eu.hansolo.TimeAtHome.TimeAtHomeWidget', path='<DVTFilePath:0xa9758c460:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa980689c0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome.TimeAtHomeWidget";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome.TimeAtHomeWidget', executablePath='<DVTFilePath:0xa9758f560:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension'>', hardenedRuntime='0'>'> to: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~a4KCo7
+2025-10-20 12:53:21 +0000  invoking codesign: <NSConcreteTask: 0xa6d6f1e00; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    BCFFE2CE275AFD2B29E656FCD5F2509E84A9453D,
+    "--entitlements",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~a4KCo7",
+    "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex"
+)'>
+2025-10-20 12:53:21 +0000  codesign output: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex: replacing existing signature
+/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex: signed bundle with Mach-O thin (arm64) [eu.hansolo.TimeAtHome.TimeAtHomeWidget]
+2025-10-20 12:53:21 +0000  Entitlements for <IDEDistributionItem: 0xa98068420; bundleID='eu.hansolo.TimeAtHome', path='<DVTFilePath:0xa97ecec40:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa98069320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d80c0; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome', executablePath='<DVTFilePath:0xa97ecc4e0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/TimeAtHome'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 0;
+}
+2025-10-20 12:53:21 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2025-10-20 12:53:21 +0000  Entitlements for <IDEDistributionItem: 0xa98068420; bundleID='eu.hansolo.TimeAtHome', path='<DVTFilePath:0xa97ecec40:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa98069320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome', executablePath='<DVTFilePath:0xa97ecc4e0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/TimeAtHome'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 0;
+}
+2025-10-20 12:53:21 +0000  Writing entitlements for <IDEDistributionItem: 0xa98068420; bundleID='eu.hansolo.TimeAtHome', path='<DVTFilePath:0xa97ecec40:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0xa98069320; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0xa978d8000; name='Apple Development: Gerrit Grunwald (B75DRMJ68Z)', hash='12FC671624AF26F585A14794BB19A0CA57825A02', serialNumber='254633DC88BD66E2F7A2BF70E15E19D', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-12-23 11:09:19 +0000''>', entitlements='{
+    "application-identifier" = "L4A7549EHC.eu.hansolo.TimeAtHome";
+    "com.apple.developer.team-identifier" = L4A7549EHC;
+    "com.apple.security.application-groups" =     (
+        "group.eu.hansolo.TimeAtHome"
+    );
+    "get-task-allow" = 1;
+}', teamID='L4A7549EHC', identifier='eu.hansolo.TimeAtHome', executablePath='<DVTFilePath:0xa97ecc4e0:'/Users/hansolo/Library/Developer/Xcode/Archives/2025-10-20/TimeAtHome 20.10.25, 14.52.xcarchive/Products/Applications/TimeAtHome.app/TimeAtHome'>', hardenedRuntime='0'>'> to: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~8Bxv2C
+2025-10-20 12:53:21 +0000  invoking codesign: <NSConcreteTask: 0xa6d6f1e00; launchPath='/usr/bin/codesign', arguments='(
+    "-f",
+    "-s",
+    BCFFE2CE275AFD2B29E656FCD5F2509E84A9453D,
+    "--entitlements",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/entitlements~~~8Bxv2C",
+    "--preserve-metadata=identifier,flags,runtime,launch-constraints,library-constraints",
+    "--generate-entitlement-der",
+    "--strip-disallowed-xattrs",
+    "-vvv",
+    "/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app"
+)'>
+2025-10-20 12:53:21 +0000  codesign output: /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app: replacing existing signature
+/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app: signed app bundle with Mach-O thin (arm64) [eu.hansolo.TimeAtHome]
+2025-10-20 12:53:21 +0000  Processing step: IDEDistributionZipODRItemStep
+2025-10-20 12:53:21 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-10-20 12:53:21 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-10-20 12:53:21 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2025-10-20 12:53:21 +0000  Processing step: IDEDistributionCreateIPAStep
+2025-10-20 12:53:21 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root' '/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Packages/TimeAtHome.ipa'
+2025-10-20 12:53:21 +0000  >>> Copying /var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root 
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/_CodeSignature/CodeResources ... 
+2025-10-20 12:53:21 +0000  5435 bytes for ./Payload/TimeAtHome.app/_CodeSignature/CodeResources
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/_CodeSignature/CodeResources ... 
+2025-10-20 12:53:21 +0000  2252 bytes for ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/_CodeSignature/CodeResources
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension ... 
+2025-10-20 12:53:21 +0000  171088 bytes for ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/TimeAtHomeWidgetExtension
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/digital-7.ttf ... 
+2025-10-20 12:53:21 +0000  33992 bytes for ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/digital-7.ttf
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/embedded.mobileprovision ... 
+2025-10-20 12:53:21 +0000  17413 bytes for ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/embedded.mobileprovision
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/Info.plist ... 
+2025-10-20 12:53:21 +0000  948 bytes for ./Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex/Info.plist
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/AppIcon60x60@2x.png ... 
+2025-10-20 12:53:21 +0000  8274 bytes for ./Payload/TimeAtHome.app/AppIcon60x60@2x.png
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/TimeAtHome ... 
+2025-10-20 12:53:21 +0000  201760 bytes for ./Payload/TimeAtHome.app/TimeAtHome
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/Assets.car ... 
+2025-10-20 12:53:21 +0000  319176 bytes for ./Payload/TimeAtHome.app/Assets.car
+copying file ./Payload/TimeAtHome.app/AppIcon76x76@2x~ipad.png ... 
+2025-10-20 12:53:21 +0000  11101 bytes for ./Payload/TimeAtHome.app/AppIcon76x76@2x~ipad.png
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/digital-7.ttf ... 
+2025-10-20 12:53:21 +0000  33992 bytes for ./Payload/TimeAtHome.app/digital-7.ttf
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/_CodeSignature/CodeResources ... 
+2025-10-20 12:53:21 +0000  1798 bytes for ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/_CodeSignature/CodeResources
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect ... 
+2025-10-20 12:53:21 +0000  91888 bytes for ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/ClockRotationEffect
+copying file ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/Info.plist ... 
+2025-10-20 12:53:21 +0000  808 bytes for ./Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework/Info.plist
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/embedded.mobileprovision ... 
+2025-10-20 12:53:21 +0000  17266 bytes for ./Payload/TimeAtHome.app/embedded.mobileprovision
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/Info.plist ... 
+2025-10-20 12:53:21 +0000  1555 bytes for ./Payload/TimeAtHome.app/Info.plist
+2025-10-20 12:53:21 +0000  copying file ./Payload/TimeAtHome.app/PkgInfo ... 
+2025-10-20 12:53:21 +0000  8 bytes for ./Payload/TimeAtHome.app/PkgInfo
+2025-10-20 12:53:21 +0000  /usr/bin/ditto exited with 0
+2025-10-20 12:53:21 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2025-10-20 12:53:21 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2025-10-20 12:53:21 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2025-10-20 12:53:21 +0000  IDEDistributionItem init <DVTFilePath:0xa93857db0:'/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/Frameworks/ClockRotationEffect.framework'>
+2025-10-20 12:53:21 +0000  IDEDistributionItem init <DVTFilePath:0xa93856fb0:'/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app/PlugIns/TimeAtHomeWidgetExtension.appex'>
+2025-10-20 12:53:21 +0000  IDEDistributionItem init <DVTFilePath:0xa980b0a20:'/var/folders/4t/3h63j18s2rx05q7jtqkfmccr0000gn/T/XcodeDistPipeline.~~~ApM5rW/Root/Payload/TimeAtHome.app'>
+2025-10-20 12:53:21 +0000  Processing step: IDEDistributionCreateManifestStep
